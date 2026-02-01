@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SufaraAldhikrModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AcademicYear">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="BeginOfYear" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="EndOfYear" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="AcademicYear1" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="IsActive" Type="Boolean" Nullable="false" />
+    <Property Name="StuRegSus" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="RoleAccounts" Relationship="Self.FK_RoleAccounts_Academic" FromRole="AcademicYear" ToRole="RoleAccounts" />
+    <NavigationProperty Name="AttendedAndAbsences" Relationship="Self.foreignAttendedAcademic" FromRole="AcademicYear" ToRole="AttendedAndAbsence" />
+    <NavigationProperty Name="Halgas" Relationship="Self.foreignHalgaAcademic" FromRole="AcademicYear" ToRole="Halga" />
+    <NavigationProperty Name="ManhajeHalgas" Relationship="Self.foreignManhajeHalgAcademic" FromRole="AcademicYear" ToRole="ManhajeHalga" />
+    <NavigationProperty Name="Students" Relationship="Self.foreignstudentAcademic" FromRole="AcademicYear" ToRole="Student" />
+    <NavigationProperty Name="Teachers" Relationship="Self.foreignTeacher" FromRole="AcademicYear" ToRole="Teacher" />
+  </EntityType>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="ID_A" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID_A" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="RoleAccounts" Relationship="Self.ForiegenRoleAccountsAccount" FromRole="Accounts" ToRole="RoleAccounts" />
+  </EntityType>
+  <EntityType Name="Halga">
+    <Key>
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="Period" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SaveFrom" Type="Int32" />
+    <Property Name="SaveTo" Type="Int32" />
+    <Property Name="HelgaType" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TeacherUniqueID" Type="Int32" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.foreignHalgaAcademic" FromRole="Halga" ToRole="AcademicYear" />
+    <NavigationProperty Name="AttendedAndAbsences" Relationship="Self.foreignAttendedHalga" FromRole="Halga" ToRole="AttendedAndAbsence" />
+    <NavigationProperty Name="ManhajeHalgas" Relationship="Self.foreignManhajeHalgaHalga" FromRole="Halga" ToRole="ManhajeHalga" />
+    <NavigationProperty Name="Students" Relationship="Self.foreignstudents" FromRole="Halga" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Manhaje">
+    <Key>
+      <PropertyRef Name="ID_M" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="URL" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Picture" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID_M" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="ManhajeHalgas" Relationship="Self.foreignManhajeHalgaManhaje" FromRole="Manhaje" ToRole="ManhajeHalga" />
+  </EntityType>
+  <EntityType Name="ManhajeHalga">
+    <Key>
+      <PropertyRef Name="ID_MH" />
+    </Key>
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ID_M" Type="Int32" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_MH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.foreignManhajeHalgAcademic" FromRole="ManhajeHalga" ToRole="AcademicYear" />
+    <NavigationProperty Name="Halga" Relationship="Self.foreignManhajeHalgaHalga" FromRole="ManhajeHalga" ToRole="Halga" />
+    <NavigationProperty Name="Manhaje" Relationship="Self.foreignManhajeHalgaManhaje" FromRole="ManhajeHalga" ToRole="Manhaje" />
+    <NavigationProperty Name="ReportCourses" Relationship="Self.foreignReportCourseManhajeHalga" FromRole="ManhajeHalga" ToRole="ReportCourse" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="ID_R" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID_R" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="RoleAccounts" Relationship="Self.ForiegenRoleAccountsRole" FromRole="Role" ToRole="RoleAccounts" />
+  </EntityType>
+  <EntityType Name="RoleAccount">
+    <Key>
+      <PropertyRef Name="ID_RA" />
+    </Key>
+    <Property Name="ID_R" Type="Int32" Nullable="false" />
+    <Property Name="ID_A" Type="Int32" Nullable="false" />
+    <Property Name="LinkedID" Type="Int32" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_RA" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.FK_RoleAccounts_Academic" FromRole="RoleAccounts" ToRole="AcademicYear" />
+    <NavigationProperty Name="Account" Relationship="Self.ForiegenRoleAccountsAccount" FromRole="RoleAccounts" ToRole="Accounts" />
+    <NavigationProperty Name="Role" Relationship="Self.ForiegenRoleAccountsRole" FromRole="RoleAccounts" ToRole="Role" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="ID_S" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="PreSavAom" Type="Int32" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="BeginOfSave" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Period" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Guardian" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="GuardianPhoNum" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="ID_H" Type="Int32" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="HomeNum" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.foreignstudentAcademic" FromRole="Student" ToRole="AcademicYear" />
+    <NavigationProperty Name="Halga" Relationship="Self.foreignstudents" FromRole="Student" ToRole="Halga" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="ID_T" />
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="ID_T" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Period" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Level" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="TeacherUniqueID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.foreignTeacher" FromRole="Teacher" ToRole="AcademicYear" />
+  </EntityType>
+  <EntityType Name="YearlyRrport">
+    <Key>
+      <PropertyRef Name="ID_Report" />
+    </Key>
+    <Property Name="ReviewTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ReviewFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ID_S" Type="Int32" Nullable="false" />
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_Report" Type="Int32" Nullable="false" />
+    <Property Name="SaveRevDeg" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="SaveTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SaveFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ReportCourses" Relationship="Self.FK_ReportCourse_YearlyReport" FromRole="YearlyRrport" ToRole="ReportCourse" />
+  </EntityType>
+  <EntityType Name="AttendedAndAbsence">
+    <Key>
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ID_Y" />
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="IsAttended" />
+    </Key>
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_S" Type="Int32" Nullable="false" />
+    <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IsAttended" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="AcademicYear" Relationship="Self.foreignAttendedAcademic" FromRole="AttendedAndAbsence" ToRole="AcademicYear" />
+    <NavigationProperty Name="Halga" Relationship="Self.foreignAttendedHalga" FromRole="AttendedAndAbsence" ToRole="Halga" />
+  </EntityType>
+  <EntityType Name="MothlyReport">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ReviewTo" />
+      <PropertyRef Name="ReviewFrom" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="SaveTo" />
+      <PropertyRef Name="SaveFrom" />
+      <PropertyRef Name="Month" />
+      <PropertyRef Name="Term" />
+    </Key>
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_S" Type="Int32" Nullable="false" />
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ReviewTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ReviewFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Notes" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SaveTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SaveFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TestDegTotal" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegSave" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegReview" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="Month" Type="Int32" Nullable="false" />
+    <Property Name="Term" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ReportCourse">
+    <Key>
+      <PropertyRef Name="ID_Report" />
+      <PropertyRef Name="ID_MH" />
+      <PropertyRef Name="Degree" />
+    </Key>
+    <Property Name="ID_Report" Type="Int32" Nullable="false" />
+    <Property Name="ID_MH" Type="Int32" Nullable="false" />
+    <Property Name="Degree" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <NavigationProperty Name="ManhajeHalga" Relationship="Self.foreignReportCourseManhajeHalga" FromRole="ReportCourse" ToRole="ManhajeHalga" />
+    <NavigationProperty Name="YearlyRrport" Relationship="Self.FK_ReportCourse_YearlyReport" FromRole="ReportCourse" ToRole="YearlyRrport" />
+  </EntityType>
+  <EntityType Name="TermReport">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ReviewTo" />
+      <PropertyRef Name="ReviewFrom" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="Term" />
+      <PropertyRef Name="SaveTo" />
+      <PropertyRef Name="SaveFrom" />
+    </Key>
+    <Property Name="ID_Y" Type="Int32" Nullable="false" />
+    <Property Name="ID_S" Type="Int32" Nullable="false" />
+    <Property Name="ID_H" Type="Int32" Nullable="false" />
+    <Property Name="ReviewTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="ReviewFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Notes" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Term" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TestDegSave" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegRev" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegTotal" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="SaveTo" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SaveFrom" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="TestResMonTTT" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="TestResMon" Type="Decimal" Precision="5" Scale="2" />
+  </EntityType>
+  <Association Name="FK_RoleAccounts_Academic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignAttendedAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="AttendedAndAbsence" Type="Self.AttendedAndAbsence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="AttendedAndAbsence">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignHalgaAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Halga" Type="Self.Halga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Halga">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignstudentAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignTeacher">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ForiegenRoleAccountsAccount">
+    <End Role="Accounts" Type="Self.Account" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Accounts">
+        <PropertyRef Name="ID_A" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_A" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignAttendedHalga">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="1" />
+    <End Role="AttendedAndAbsence" Type="Self.AttendedAndAbsence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="AttendedAndAbsence">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgaHalga">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignstudents">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgaManhaje">
+    <End Role="Manhaje" Type="Self.Manhaje" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manhaje">
+        <PropertyRef Name="ID_M" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID_M" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignReportCourseManhajeHalga">
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="1" />
+    <End Role="ReportCourse" Type="Self.ReportCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ManhajeHalga">
+        <PropertyRef Name="ID_MH" />
+      </Principal>
+      <Dependent Role="ReportCourse">
+        <PropertyRef Name="ID_MH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ForiegenRoleAccountsRole">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="ID_R" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_R" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReportCourse_YearlyReport">
+    <End Role="YearlyRrport" Type="Self.YearlyRrport" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ReportCourse" Type="Self.ReportCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YearlyRrport">
+        <PropertyRef Name="ID_Report" />
+      </Principal>
+      <Dependent Role="ReportCourse">
+        <PropertyRef Name="ID_Report" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SufaraAldhikrEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AcademicYears" EntityType="Self.AcademicYear" />
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="Halgas" EntityType="Self.Halga" />
+    <EntitySet Name="Manhajes" EntityType="Self.Manhaje" />
+    <EntitySet Name="ManhajeHalgas" EntityType="Self.ManhajeHalga" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="RoleAccounts" EntityType="Self.RoleAccount" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Teachers" EntityType="Self.Teacher" />
+    <EntitySet Name="YearlyRrports" EntityType="Self.YearlyRrport" />
+    <EntitySet Name="AttendedAndAbsences" EntityType="Self.AttendedAndAbsence" />
+    <EntitySet Name="MothlyReports" EntityType="Self.MothlyReport" />
+    <EntitySet Name="ReportCourses" EntityType="Self.ReportCourse" />
+    <EntitySet Name="TermReports" EntityType="Self.TermReport" />
+    <AssociationSet Name="FK_RoleAccounts_Academic" Association="Self.FK_RoleAccounts_Academic">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="foreignAttendedAcademic" Association="Self.foreignAttendedAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="AttendedAndAbsence" EntitySet="AttendedAndAbsences" />
+    </AssociationSet>
+    <AssociationSet Name="foreignHalgaAcademic" Association="Self.foreignHalgaAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="Halga" EntitySet="Halgas" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgAcademic" Association="Self.foreignManhajeHalgAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalgas" />
+    </AssociationSet>
+    <AssociationSet Name="foreignstudentAcademic" Association="Self.foreignstudentAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="foreignTeacher" Association="Self.foreignTeacher">
+      <End Role="AcademicYear" EntitySet="AcademicYears" />
+      <End Role="Teacher" EntitySet="Teachers" />
+    </AssociationSet>
+    <AssociationSet Name="ForiegenRoleAccountsAccount" Association="Self.ForiegenRoleAccountsAccount">
+      <End Role="Accounts" EntitySet="Accounts" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="foreignAttendedHalga" Association="Self.foreignAttendedHalga">
+      <End Role="Halga" EntitySet="Halgas" />
+      <End Role="AttendedAndAbsence" EntitySet="AttendedAndAbsences" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgaHalga" Association="Self.foreignManhajeHalgaHalga">
+      <End Role="Halga" EntitySet="Halgas" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalgas" />
+    </AssociationSet>
+    <AssociationSet Name="foreignstudents" Association="Self.foreignstudents">
+      <End Role="Halga" EntitySet="Halgas" />
+      <End Role="Student" EntitySet="Students" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgaManhaje" Association="Self.foreignManhajeHalgaManhaje">
+      <End Role="Manhaje" EntitySet="Manhajes" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalgas" />
+    </AssociationSet>
+    <AssociationSet Name="foreignReportCourseManhajeHalga" Association="Self.foreignReportCourseManhajeHalga">
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalgas" />
+      <End Role="ReportCourse" EntitySet="ReportCourses" />
+    </AssociationSet>
+    <AssociationSet Name="ForiegenRoleAccountsRole" Association="Self.ForiegenRoleAccountsRole">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReportCourse_YearlyReport" Association="Self.FK_ReportCourse_YearlyReport">
+      <End Role="YearlyRrport" EntitySet="YearlyRrports" />
+      <End Role="ReportCourse" EntitySet="ReportCourses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

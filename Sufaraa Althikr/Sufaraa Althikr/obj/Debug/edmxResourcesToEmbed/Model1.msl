@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SufaraAldhikrModelStoreContainer" CdmEntityContainer="SufaraAldhikrEntities1">
+    <EntitySetMapping Name="AcademicYears">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.AcademicYear">
+        <MappingFragment StoreEntitySet="AcademicYear">
+          <ScalarProperty Name="BeginOfYear" ColumnName="BeginOfYear" />
+          <ScalarProperty Name="EndOfYear" ColumnName="EndOfYear" />
+          <ScalarProperty Name="AcademicYear1" ColumnName="AcademicYear" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="StuRegSus" ColumnName="StuRegSus" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Account">
+        <MappingFragment StoreEntitySet="Accounts">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="ID_A" ColumnName="ID_A" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Halgas">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Halga">
+        <MappingFragment StoreEntitySet="Halga">
+          <ScalarProperty Name="ID_H" ColumnName="ID-H" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID-Y" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="SaveFrom" ColumnName="SaveFrom" />
+          <ScalarProperty Name="SaveTo" ColumnName="SaveTo" />
+          <ScalarProperty Name="HelgaType" ColumnName="HelgaType" />
+          <ScalarProperty Name="TeacherUniqueID" ColumnName="TeacherUniqueID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manhajes">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Manhaje">
+        <MappingFragment StoreEntitySet="Manhaje">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="URL" ColumnName="URL" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="ID_M" ColumnName="ID_M" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ManhajeHalgas">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.ManhajeHalga">
+        <MappingFragment StoreEntitySet="ManhajeHalga">
+          <ScalarProperty Name="ID_H" ColumnName="ID-H" />
+          <ScalarProperty Name="ID_M" ColumnName="ID-M" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID-Y" />
+          <ScalarProperty Name="ID_MH" ColumnName="ID-MH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID_R" ColumnName="ID_R" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RoleAccounts">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.RoleAccount">
+        <MappingFragment StoreEntitySet="RoleAccounts">
+          <ScalarProperty Name="ID_R" ColumnName="ID_R" />
+          <ScalarProperty Name="ID_A" ColumnName="ID_A" />
+          <ScalarProperty Name="LinkedID" ColumnName="LinkedID" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="ID_RA" ColumnName="ID_RA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Student">
+        <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="ID_S" ColumnName="ID_S" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PreSavAom" ColumnName="PreSavAom" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="BeginOfSave" ColumnName="BeginOfSave" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="Guardian" ColumnName="Guardian" />
+          <ScalarProperty Name="GuardianPhoNum" ColumnName="GuardianPhoNum" />
+          <ScalarProperty Name="ID_H" ColumnName="ID_H" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="HomeNum" ColumnName="HomeNum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Teachers">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.Teacher">
+        <MappingFragment StoreEntitySet="Teacher">
+          <ScalarProperty Name="ID_T" ColumnName="ID_T" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Period" ColumnName="Period" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="TeacherUniqueID" ColumnName="TeacherUniqueID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="YearlyRrports">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.YearlyRrport">
+        <MappingFragment StoreEntitySet="YearlyRrport">
+          <ScalarProperty Name="ReviewTo" ColumnName="ReviewTo" />
+          <ScalarProperty Name="ReviewFrom" ColumnName="ReviewFrom" />
+          <ScalarProperty Name="ID_S" ColumnName="ID_S" />
+          <ScalarProperty Name="ID_H" ColumnName="ID_H" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="ID_Report" ColumnName="ID_Report" />
+          <ScalarProperty Name="SaveRevDeg" ColumnName="SaveRevDeg" />
+          <ScalarProperty Name="SaveTo" ColumnName="SaveTo" />
+          <ScalarProperty Name="SaveFrom" ColumnName="SaveFrom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AttendedAndAbsences">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.AttendedAndAbsence">
+        <MappingFragment StoreEntitySet="AttendedAndAbsence">
+          <ScalarProperty Name="ID_H" ColumnName="ID-H" />
+          <ScalarProperty Name="ID_Y" ColumnName="ID-Y" />
+          <ScalarProperty Name="ID_S" ColumnName="ID-S" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="IsAttended" ColumnName="IsAttended" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MothlyReports">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.MothlyReport">
+        <MappingFragment StoreEntitySet="MothlyReport">
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="ID_S" ColumnName="ID_S" />
+          <ScalarProperty Name="ID_H" ColumnName="ID_H" />
+          <ScalarProperty Name="ReviewTo" ColumnName="ReviewTo" />
+          <ScalarProperty Name="ReviewFrom" ColumnName="ReviewFrom" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="SaveTo" ColumnName="SaveTo" />
+          <ScalarProperty Name="SaveFrom" ColumnName="SaveFrom" />
+          <ScalarProperty Name="TestDegTotal" ColumnName="TestDegTotal" />
+          <ScalarProperty Name="TestDegSave" ColumnName="TestDegSave" />
+          <ScalarProperty Name="TestDegReview" ColumnName="TestDegReview" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Term" ColumnName="Term" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReportCourses">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.ReportCourse">
+        <MappingFragment StoreEntitySet="ReportCourse">
+          <ScalarProperty Name="ID_Report" ColumnName="ID_Report" />
+          <ScalarProperty Name="ID_MH" ColumnName="ID_MH" />
+          <ScalarProperty Name="Degree" ColumnName="Degree" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TermReports">
+      <EntityTypeMapping TypeName="SufaraAldhikrModel.TermReport">
+        <MappingFragment StoreEntitySet="TermReport">
+          <ScalarProperty Name="ID_Y" ColumnName="ID_Y" />
+          <ScalarProperty Name="ID_S" ColumnName="ID_S" />
+          <ScalarProperty Name="ID_H" ColumnName="ID_H" />
+          <ScalarProperty Name="ReviewTo" ColumnName="ReviewTo" />
+          <ScalarProperty Name="ReviewFrom" ColumnName="ReviewFrom" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="Term" ColumnName="Term" />
+          <ScalarProperty Name="TestDegSave" ColumnName="TestDegSave" />
+          <ScalarProperty Name="TestDegRev" ColumnName="TestDegRev" />
+          <ScalarProperty Name="TestDegTotal" ColumnName="TestDegTotal" />
+          <ScalarProperty Name="SaveTo" ColumnName="SaveTo" />
+          <ScalarProperty Name="SaveFrom" ColumnName="SaveFrom" />
+          <ScalarProperty Name="TestResMonTTT" ColumnName="TestResMonTTT" />
+          <ScalarProperty Name="TestResMon" ColumnName="TestResMon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

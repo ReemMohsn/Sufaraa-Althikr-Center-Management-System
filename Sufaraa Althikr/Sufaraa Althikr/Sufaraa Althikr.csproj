@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sufaraa_Althikr</RootNamespace>
+    <AssemblyName>Sufaraa Althikr</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcademicYear.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Account.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="addHel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addHel.designer.cs">
+      <DependentUpon>addHel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addManh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addManh.designer.cs">
+      <DependentUpon>addManh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudent.designer.cs">
+      <DependentUpon>AddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStudentFromAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStudentFromAdmin.designer.cs">
+      <DependentUpon>AddStudentFromAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTeacher.designer.cs">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="atendentAndLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="atendentAndLeave.Designer.cs">
+      <DependentUpon>atendentAndLeave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="attendeandleave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="attendeandleave.designer.cs">
+      <DependentUpon>attendeandleave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AttendedAndAbsence.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CheackStudentExist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheackStudentExist.designer.cs">
+      <DependentUpon>CheackStudentExist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="checkTeacherExist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="checkTeacherExist.designer.cs">
+      <DependentUpon>checkTeacherExist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="choseRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choseRole.designer.cs">
+      <DependentUpon>choseRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateAccount.designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateYear.designer.cs">
+      <DependentUpon>DateYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Halga.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="halgasTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="halgasTeacher.Designer.cs">
+      <DependentUpon>halgasTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helga.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helga.designer.cs">
+      <DependentUpon>Helga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helga_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helga_info.designer.cs">
+      <DependentUpon>Helga_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainTeacher.designer.cs">
+      <DependentUpon>mainTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manh.designer.cs">
+      <DependentUpon>Manh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manhaje.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ManhajeHalga.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="MonthlyReportT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonthlyReportT.designer.cs">
+      <DependentUpon>MonthlyReportT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Monthly_rebort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monthly_rebort.designer.cs">
+      <DependentUpon>Monthly_rebort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MothlyReport.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportCourse.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportsMain.designer.cs">
+      <DependentUpon>ReportsMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rocordAsStudentTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rocordAsStudentTeacher.designer.cs">
+      <DependentUpon>rocordAsStudentTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Role.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RoleAccount.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Selectyear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selectyear.designer.cs">
+      <DependentUpon>Selectyear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="studentMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="studentMain.designer.cs">
+      <DependentUpon>studentMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMonthlyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentMonthlyReport.designer.cs">
+      <DependentUpon>StudentMonthlyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentProfile.designer.cs">
+      <DependentUpon>StudentProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Students.designer.cs">
+      <DependentUpon>Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentTermReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentTermReport.designer.cs">
+      <DependentUpon>StudentTermReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentYearlyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentYearlyReport.designer.cs">
+      <DependentUpon>StudentYearlyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student_info.designer.cs">
+      <DependentUpon>Student_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Tagreer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tagreer.designer.cs">
+      <DependentUpon>Tagreer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherProfile.designer.cs">
+      <DependentUpon>TeacherProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teachers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teachers.designer.cs">
+      <DependentUpon>Teachers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Teacher_info.designer.cs">
+      <DependentUpon>Teacher_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TermReport.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TermReportT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TermReportT.designer.cs">
+      <DependentUpon>TermReportT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Term_rebort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Term_rebort.designer.cs">
+      <DependentUpon>Term_rebort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YearlyReportT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearlyReportT.designer.cs">
+      <DependentUpon>YearlyReportT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YearlyRrport.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Yearly_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yearly_report.designer.cs">
+      <DependentUpon>Yearly_report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addHel.resx">
+      <DependentUpon>addHel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addManh.resx">
+      <DependentUpon>addManh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStudent.resx">
+      <DependentUpon>AddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStudentFromAdmin.resx">
+      <DependentUpon>AddStudentFromAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTeacher.resx">
+      <DependentUpon>AddTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="atendentAndLeave.resx">
+      <DependentUpon>atendentAndLeave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendeandleave.resx">
+      <DependentUpon>attendeandleave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheackStudentExist.resx">
+      <DependentUpon>CheackStudentExist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="checkTeacherExist.resx">
+      <DependentUpon>checkTeacherExist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="choseRole.resx">
+      <DependentUpon>choseRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateYear.resx">
+      <DependentUpon>DateYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="halgasTeacher.resx">
+      <DependentUpon>halgasTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helga.resx">
+      <DependentUpon>Helga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helga_info.resx">
+      <DependentUpon>Helga_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainTeacher.resx">
+      <DependentUpon>mainTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manh.resx">
+      <DependentUpon>Manh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonthlyReportT.resx">
+      <DependentUpon>MonthlyReportT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monthly_rebort.resx">
+      <DependentUpon>Monthly_rebort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportsMain.resx">
+      <DependentUpon>ReportsMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rocordAsStudentTeacher.resx">
+      <DependentUpon>rocordAsStudentTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selectyear.resx">
+      <DependentUpon>Selectyear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="studentMain.resx">
+      <DependentUpon>studentMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentMonthlyReport.resx">
+      <DependentUpon>StudentMonthlyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentProfile.resx">
+      <DependentUpon>StudentProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Students.resx">
+      <DependentUpon>Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentTermReport.resx">
+      <DependentUpon>StudentTermReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentYearlyReport.resx">
+      <DependentUpon>StudentYearlyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student_info.resx">
+      <DependentUpon>Student_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tagreer.resx">
+      <DependentUpon>Tagreer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherProfile.resx">
+      <DependentUpon>TeacherProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teachers.resx">
+      <DependentUpon>Teachers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Teacher_info.resx">
+      <DependentUpon>Teacher_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TermReportT.resx">
+      <DependentUpon>TermReportT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Term_rebort.resx">
+      <DependentUpon>Term_rebort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearlyReportT.resx">
+      <DependentUpon>YearlyReportT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yearly_report.resx">
+      <DependentUpon>Yearly_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </None>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\الشعار.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\هخ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\صورة واتساب بتاريخ 1446-05-20 في 17.44.39_66b1465e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\صورة واتساب بتاريخ 1446-05-20 في 18.37.19_ea78a23f.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

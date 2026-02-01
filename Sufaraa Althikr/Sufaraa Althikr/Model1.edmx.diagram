@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="654b03c21837452c8e3c6203656533d3" Name="Diagram1" ZoomLevel="57">
+        <EntityTypeShape EntityType="SufaraAldhikrModel.AcademicYear" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Account" Width="1.5" PointX="3.75" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Halga" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Manhaje" Width="1.5" PointX="3" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.ManhajeHalga" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Role" Width="1.5" PointX="3.75" PointY="20.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.RoleAccount" Width="1.5" PointX="6" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Student" Width="1.5" PointX="8.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.Teacher" Width="1.5" PointX="3" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.YearlyRrport" Width="1.5" PointX="8.25" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.AttendedAndAbsence" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.MothlyReport" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.ReportCourse" Width="1.5" PointX="10.5" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SufaraAldhikrModel.TermReport" Width="1.5" PointX="10.75" PointY="11.75" IsExpanded="true" />
+        <AssociationConnector Association="SufaraAldhikrModel.FK_RoleAccounts_Academic" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignAttendedAcademic" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignHalgaAcademic" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignManhajeHalgAcademic" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignstudentAcademic" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignTeacher" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.ForiegenRoleAccountsAccount" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignAttendedHalga" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignManhajeHalgaHalga" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignstudents" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignManhajeHalgaManhaje" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.foreignReportCourseManhajeHalga" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.ForiegenRoleAccountsRole" ManuallyRouted="false" />
+        <AssociationConnector Association="SufaraAldhikrModel.FK_ReportCourse_YearlyReport" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

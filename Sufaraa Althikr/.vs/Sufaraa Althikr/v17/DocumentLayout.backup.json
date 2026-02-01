@@ -1,0 +1,810 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|e:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\sufaraa althikr\\sufaraa althikr\\rocordasstudentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\rocordasstudentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\tagreer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\tagreer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\monthly_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\monthly_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\yearlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\yearlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\yearly_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\yearly_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\termreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\termreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\term_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\term_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\teachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\teacher_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\teacher_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentyearlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentyearlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studenttermreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studenttermreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentmonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentmonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\student_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\student_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\selectyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\selectyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\reportsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\reportsmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\monthlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\monthlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\manh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\manh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\mainteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\mainteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\helga_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\helga_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\rocordasstudentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\rocordasstudentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\checkteacherexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\checkteacherexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\checkteacherexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\checkteacherexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\cheackstudentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\cheackstudentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\cheackstudentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\cheackstudentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\helga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\helga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\halgasteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\halgasteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\dateyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\dateyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\choserole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\choserole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\attendeandleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\attendeandleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\atendentandleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\atendentandleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\dateyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\dateyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addstudentfromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addstudentfromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addhel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addhel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addmanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addmanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\halgasteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\halgasteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addstudentfromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addstudentfromadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentyearlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentyearlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\termreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\termreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studenttermreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studenttermreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\addmanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\addmanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\studentmonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\studentmonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\monthly_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\monthly_rebort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\sufaraa althikr\\monthlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E9D78D-B9AE-46B1-B413-5A1A76AA8E22}|Sufaraa Althikr\\Sufaraa Althikr.csproj|solutionrelative:sufaraa althikr\\monthlyreportt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monthly_rebort.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Monthly_rebort.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Monthly_rebort.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Monthly_rebort.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Term_rebort.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Term_rebort.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Term_rebort.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Term_rebort.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tagreer.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Tagreer.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Tagreer.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Tagreer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rocordAsStudentTeacher.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\rocordAsStudentTeacher.cs [Design]",
+              "RelativeToolTip": "Sufaraa Althikr\\rocordAsStudentTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:15:45.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YearlyReportT.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\YearlyReportT.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\YearlyReportT.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\YearlyReportT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yearly_report.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Yearly_report.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Yearly_report.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Yearly_report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TermReportT.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TermReportT.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\TermReportT.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TermReportT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teachers.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Teachers.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Teachers.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Teachers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherProfile.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TeacherProfile.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\TeacherProfile.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TeacherProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher_info.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Teacher_info.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Teacher_info.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Teacher_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentYearlyReport.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentYearlyReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentYearlyReport.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentYearlyReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentTermReport.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentTermReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentTermReport.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentTermReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Students.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Students.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Students.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Students.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentProfile.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentProfile.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentMonthlyReport.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentMonthlyReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "studentMain.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\studentMain.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\studentMain.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\studentMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student_info.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Student_info.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Student_info.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Student_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Selectyear.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Selectyear.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Selectyear.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Selectyear.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportsMain.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\ReportsMain.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\ReportsMain.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\ReportsMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MonthlyReportT.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\MonthlyReportT.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\MonthlyReportT.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\MonthlyReportT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Manh.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Manh.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Manh.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Manh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "mainTeacher.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\mainTeacher.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\mainTeacher.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\mainTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Main.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Main.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Login.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Login.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Helga_info.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Helga_info.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Helga_info.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Helga_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "rocordAsStudentTeacher.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\rocordAsStudentTeacher.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwDkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudent.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\AddStudent.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudent.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\AddStudent.cs",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAswFsBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudent.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\AddStudent.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "checkTeacherExist.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\checkTeacherExist.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\checkTeacherExist.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\checkTeacherExist.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\checkTeacherExist.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAkwLAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "checkTeacherExist.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\checkTeacherExist.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\checkTeacherExist.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\checkTeacherExist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CheackStudentExist.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CheackStudentExist.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\CheackStudentExist.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CheackStudentExist.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\CheackStudentExist.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwIkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Helga.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Helga.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Helga.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Helga.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "halgasTeacher.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\halgasTeacher.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\halgasTeacher.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\halgasTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DateYear.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\DateYear.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\DateYear.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\DateYear.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CheackStudentExist.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CheackStudentExist.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\CheackStudentExist.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CheackStudentExist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\CreateAccount.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "choseRole.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\choseRole.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\choseRole.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\choseRole.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "atendentAndLeave.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\atendentAndLeave.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\atendentAndLeave.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\atendentAndLeave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "attendeandleave.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\attendeandleave.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\attendeandleave.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\attendeandleave.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "studentMain.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\studentMain.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\studentMain.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\studentMain.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\studentMain.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAlwGQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DateYear.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\DateYear.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\DateYear.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\DateYear.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\DateYear.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAD4v3YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\CreateAccount.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\CreateAccount.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\CreateAccount.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAD4v7YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddStudentFromAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudentFromAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "addHel.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addHel.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\addHel.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addHel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "addManh.cs [Design]",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addManh.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\addManh.cs",
+              "ToolTip": "C:\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addManh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "halgasTeacher.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\halgasTeacher.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\halgasTeacher.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\halgasTeacher.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\halgasTeacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddStudentFromAdmin.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\AddStudentFromAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TermReportT.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TermReportT.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\TermReportT.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\TermReportT.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\TermReportT.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwB0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StudentYearlyReport.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentYearlyReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentYearlyReport.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentYearlyReport.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\StudentYearlyReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StudentTermReport.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentTermReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentTermReport.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentTermReport.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\StudentTermReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "addManh.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addManh.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\addManh.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\addManh.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\addManh.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StudentMonthlyReport.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\StudentMonthlyReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Monthly_rebort.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Monthly_rebort.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\Monthly_rebort.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\Monthly_rebort.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\Monthly_rebort.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MonthlyReportT.cs",
+              "DocumentMoniker": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\MonthlyReportT.cs",
+              "RelativeDocumentMoniker": "Sufaraa Althikr\\MonthlyReportT.cs",
+              "ToolTip": "E:\\\u0645\u0644\u0641\u0627\u062A \u0631\u064A\u0645\\\u0645\u0633\u062A\u0648\u0649 \u062B\u0627\u0644\u062B \u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u0623\u0648\u0644\\\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0648\u0646\u062F\u0648\u0632   \u0641\u0648\u0631\u0645 \u0633\u0641\u0631\u0627\u0621 \u0627\u0644\u0630\u0643\u0631\\\u0627\u062E\u0631 \u0646\u0633\u062E\u0629\\Sufaraa Althikr\\Sufaraa Althikr\\MonthlyReportT.cs",
+              "RelativeToolTip": "Sufaraa Althikr\\MonthlyReportT.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-06T09:15:45.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SufaraAldhikrModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AcademicYear">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="BeginOfYear" Type="date" Nullable="false" />
+    <Property Name="EndOfYear" Type="date" Nullable="false" />
+    <Property Name="AcademicYear" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+    <Property Name="StuRegSus" Type="date" Nullable="false" />
+    <Property Name="ID_Y" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Accounts">
+    <Key>
+      <PropertyRef Name="ID_A" />
+    </Key>
+    <Property Name="UserName" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Password" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="ID_A" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SufaraAldhikr.dbo.AttendedAndAbsence' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="AttendedAndAbsence">
+    <Key>
+      <PropertyRef Name="ID-H" />
+      <PropertyRef Name="ID-Y" />
+      <PropertyRef Name="ID-S" />
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="IsAttended" />
+    </Key>
+    <Property Name="ID-H" Type="int" Nullable="false" />
+    <Property Name="ID-Y" Type="int" Nullable="false" />
+    <Property Name="ID-S" Type="int" Nullable="false" />
+    <Property Name="Date" Type="date" Nullable="false" />
+    <Property Name="IsAttended" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Halga">
+    <Key>
+      <PropertyRef Name="ID-H" />
+      <PropertyRef Name="ID-Y" />
+    </Key>
+    <Property Name="ID-H" Type="int" Nullable="false" />
+    <Property Name="ID-Y" Type="int" Nullable="false" />
+    <Property Name="Period" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="SaveFrom" Type="int" />
+    <Property Name="SaveTo" Type="int" />
+    <Property Name="HelgaType" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="TeacherUniqueID" Type="int" />
+  </EntityType>
+  <EntityType Name="Manhaje">
+    <Key>
+      <PropertyRef Name="ID_M" />
+    </Key>
+    <Property Name="Name" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="URL" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Picture" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="ID_M" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ManhajeHalga">
+    <Key>
+      <PropertyRef Name="ID-MH" />
+    </Key>
+    <Property Name="ID-H" Type="int" Nullable="false" />
+    <Property Name="ID-M" Type="int" Nullable="false" />
+    <Property Name="ID-Y" Type="int" Nullable="false" />
+    <Property Name="ID-MH" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SufaraAldhikr.dbo.MothlyReport' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="MothlyReport">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ReviewTo" />
+      <PropertyRef Name="ReviewFrom" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="SaveTo" />
+      <PropertyRef Name="SaveFrom" />
+      <PropertyRef Name="Month" />
+      <PropertyRef Name="Term" />
+    </Key>
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="ID_S" Type="int" Nullable="false" />
+    <Property Name="ID_H" Type="int" Nullable="false" />
+    <Property Name="ReviewTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReviewFrom" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Notes" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="SaveTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="SaveFrom" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="TestDegTotal" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegSave" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegReview" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="Month" Type="int" Nullable="false" />
+    <Property Name="Term" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SufaraAldhikr.dbo.ReportCourse' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ReportCourse">
+    <Key>
+      <PropertyRef Name="ID_Report" />
+      <PropertyRef Name="ID_MH" />
+      <PropertyRef Name="Degree" />
+    </Key>
+    <Property Name="ID_Report" Type="int" Nullable="false" />
+    <Property Name="ID_MH" Type="int" Nullable="false" />
+    <Property Name="Degree" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="ID_R" />
+    </Key>
+    <Property Name="Name" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="ID_R" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RoleAccounts">
+    <Key>
+      <PropertyRef Name="ID_RA" />
+    </Key>
+    <Property Name="ID_R" Type="int" Nullable="false" />
+    <Property Name="ID_A" Type="int" Nullable="false" />
+    <Property Name="LinkedID" Type="int" Nullable="false" />
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="ID_RA" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="ID_S" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="PreSavAom" Type="int" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="100" />
+    <Property Name="BeginOfSave" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Period" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Guardian" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="GuardianPhoNum" Type="nchar" MaxLength="50" />
+    <Property Name="ID_H" Type="int" />
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="HomeNum" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="ID_T" />
+      <PropertyRef Name="ID_Y" />
+    </Key>
+    <Property Name="ID_T" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Period" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Level" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="TeacherUniqueID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SufaraAldhikr.dbo.TermReport' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="TermReport">
+    <Key>
+      <PropertyRef Name="ID_Y" />
+      <PropertyRef Name="ID_S" />
+      <PropertyRef Name="ID_H" />
+      <PropertyRef Name="ReviewTo" />
+      <PropertyRef Name="ReviewFrom" />
+      <PropertyRef Name="Notes" />
+      <PropertyRef Name="Term" />
+      <PropertyRef Name="SaveTo" />
+      <PropertyRef Name="SaveFrom" />
+    </Key>
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="ID_S" Type="int" Nullable="false" />
+    <Property Name="ID_H" Type="int" Nullable="false" />
+    <Property Name="ReviewTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReviewFrom" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Notes" Type="nchar" MaxLength="100" Nullable="false" />
+    <Property Name="Term" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="TestDegSave" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegRev" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="TestDegTotal" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="SaveTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="SaveFrom" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="TestResMonTTT" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="TestResMon" Type="decimal" Precision="5" Scale="2" />
+  </EntityType>
+  <EntityType Name="YearlyRrport">
+    <Key>
+      <PropertyRef Name="ID_Report" />
+    </Key>
+    <Property Name="ReviewTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ReviewFrom" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID_S" Type="int" Nullable="false" />
+    <Property Name="ID_H" Type="int" Nullable="false" />
+    <Property Name="ID_Y" Type="int" Nullable="false" />
+    <Property Name="ID_Report" Type="int" Nullable="false" />
+    <Property Name="SaveRevDeg" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="SaveTo" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="SaveFrom" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6035: The relationship 'FK_Halga_Teacher' has columns that are not part of the key of the table on the primary side of the relationship. The relationship was excluded.
+        <Association Name="FK_Halga_Teacher" />-->
+  <Association Name="FK_ReportCourse_YearlyReport">
+    <End Role="YearlyRrport" Type="Self.YearlyRrport" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ReportCourse" Type="Self.ReportCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YearlyRrport">
+        <PropertyRef Name="ID_Report" />
+      </Principal>
+      <Dependent Role="ReportCourse">
+        <PropertyRef Name="ID_Report" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RoleAccounts_Academic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccounts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignAttendedAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="AttendedAndAbsence" Type="Self.AttendedAndAbsence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="AttendedAndAbsence">
+        <PropertyRef Name="ID-Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignAttendedHalga">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="1" />
+    <End Role="AttendedAndAbsence" Type="Self.AttendedAndAbsence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID-H" />
+        <PropertyRef Name="ID-Y" />
+      </Principal>
+      <Dependent Role="AttendedAndAbsence">
+        <PropertyRef Name="ID-H" />
+        <PropertyRef Name="ID-Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignHalgaAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Halga" Type="Self.Halga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Halga">
+        <PropertyRef Name="ID-Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID-Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgaHalga">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID-H" />
+        <PropertyRef Name="ID-Y" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID-H" />
+        <PropertyRef Name="ID-Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignManhajeHalgaManhaje">
+    <End Role="Manhaje" Type="Self.Manhaje" Multiplicity="1" />
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manhaje">
+        <PropertyRef Name="ID_M" />
+      </Principal>
+      <Dependent Role="ManhajeHalga">
+        <PropertyRef Name="ID-M" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignReportCourseManhajeHalga">
+    <End Role="ManhajeHalga" Type="Self.ManhajeHalga" Multiplicity="1" />
+    <End Role="ReportCourse" Type="Self.ReportCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ManhajeHalga">
+        <PropertyRef Name="ID-MH" />
+      </Principal>
+      <Dependent Role="ReportCourse">
+        <PropertyRef Name="ID_MH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignstudentAcademic">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignstudents">
+    <End Role="Halga" Type="Self.Halga" Multiplicity="0..1" />
+    <End Role="Student" Type="Self.Student" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Halga">
+        <PropertyRef Name="ID-H" />
+        <PropertyRef Name="ID-Y" />
+      </Principal>
+      <Dependent Role="Student">
+        <PropertyRef Name="ID_H" />
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="foreignTeacher">
+    <End Role="AcademicYear" Type="Self.AcademicYear" Multiplicity="1" />
+    <End Role="Teacher" Type="Self.Teacher" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AcademicYear">
+        <PropertyRef Name="ID_Y" />
+      </Principal>
+      <Dependent Role="Teacher">
+        <PropertyRef Name="ID_Y" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ForiegenRoleAccountsAccount">
+    <End Role="Accounts" Type="Self.Accounts" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccounts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Accounts">
+        <PropertyRef Name="ID_A" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_A" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ForiegenRoleAccountsRole">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="RoleAccounts" Type="Self.RoleAccounts" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="ID_R" />
+      </Principal>
+      <Dependent Role="RoleAccounts">
+        <PropertyRef Name="ID_R" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SufaraAldhikrModelStoreContainer">
+    <EntitySet Name="AcademicYear" EntityType="Self.AcademicYear" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Accounts" EntityType="Self.Accounts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Halga" EntityType="Self.Halga" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manhaje" EntityType="Self.Manhaje" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ManhajeHalga" EntityType="Self.ManhajeHalga" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Role" EntityType="Self.Role" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RoleAccounts" EntityType="Self.RoleAccounts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Teacher" EntityType="Self.Teacher" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="YearlyRrport" EntityType="Self.YearlyRrport" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AttendedAndAbsence" EntityType="Self.AttendedAndAbsence" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [AttendedAndAbsence].[ID-H] AS [ID-H], 
+    [AttendedAndAbsence].[ID-Y] AS [ID-Y], 
+    [AttendedAndAbsence].[ID-S] AS [ID-S], 
+    [AttendedAndAbsence].[Date] AS [Date], 
+    [AttendedAndAbsence].[IsAttended] AS [IsAttended]
+    FROM [dbo].[AttendedAndAbsence] AS [AttendedAndAbsence]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="MothlyReport" EntityType="Self.MothlyReport" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [MothlyReport].[ID_Y] AS [ID_Y], 
+    [MothlyReport].[ID_S] AS [ID_S], 
+    [MothlyReport].[ID_H] AS [ID_H], 
+    [MothlyReport].[ReviewTo] AS [ReviewTo], 
+    [MothlyReport].[ReviewFrom] AS [ReviewFrom], 
+    [MothlyReport].[Notes] AS [Notes], 
+    [MothlyReport].[SaveTo] AS [SaveTo], 
+    [MothlyReport].[SaveFrom] AS [SaveFrom], 
+    [MothlyReport].[TestDegTotal] AS [TestDegTotal], 
+    [MothlyReport].[TestDegSave] AS [TestDegSave], 
+    [MothlyReport].[TestDegReview] AS [TestDegReview], 
+    [MothlyReport].[Month] AS [Month], 
+    [MothlyReport].[Term] AS [Term]
+    FROM [dbo].[MothlyReport] AS [MothlyReport]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="ReportCourse" EntityType="Self.ReportCourse" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ReportCourse].[ID_Report] AS [ID_Report], 
+    [ReportCourse].[ID_MH] AS [ID_MH], 
+    [ReportCourse].[Degree] AS [Degree]
+    FROM [dbo].[ReportCourse] AS [ReportCourse]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="TermReport" EntityType="Self.TermReport" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [TermReport].[ID_Y] AS [ID_Y], 
+    [TermReport].[ID_S] AS [ID_S], 
+    [TermReport].[ID_H] AS [ID_H], 
+    [TermReport].[ReviewTo] AS [ReviewTo], 
+    [TermReport].[ReviewFrom] AS [ReviewFrom], 
+    [TermReport].[Notes] AS [Notes], 
+    [TermReport].[Term] AS [Term], 
+    [TermReport].[TestDegSave] AS [TestDegSave], 
+    [TermReport].[TestDegRev] AS [TestDegRev], 
+    [TermReport].[TestDegTotal] AS [TestDegTotal], 
+    [TermReport].[SaveTo] AS [SaveTo], 
+    [TermReport].[SaveFrom] AS [SaveFrom], 
+    [TermReport].[TestResMonTTT] AS [TestResMonTTT], 
+    [TermReport].[TestResMon] AS [TestResMon]
+    FROM [dbo].[TermReport] AS [TermReport]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_ReportCourse_YearlyReport" Association="Self.FK_ReportCourse_YearlyReport">
+      <End Role="YearlyRrport" EntitySet="YearlyRrport" />
+      <End Role="ReportCourse" EntitySet="ReportCourse" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RoleAccounts_Academic" Association="Self.FK_RoleAccounts_Academic">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="foreignAttendedAcademic" Association="Self.foreignAttendedAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="AttendedAndAbsence" EntitySet="AttendedAndAbsence" />
+    </AssociationSet>
+    <AssociationSet Name="foreignAttendedHalga" Association="Self.foreignAttendedHalga">
+      <End Role="Halga" EntitySet="Halga" />
+      <End Role="AttendedAndAbsence" EntitySet="AttendedAndAbsence" />
+    </AssociationSet>
+    <AssociationSet Name="foreignHalgaAcademic" Association="Self.foreignHalgaAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="Halga" EntitySet="Halga" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgAcademic" Association="Self.foreignManhajeHalgAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalga" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgaHalga" Association="Self.foreignManhajeHalgaHalga">
+      <End Role="Halga" EntitySet="Halga" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalga" />
+    </AssociationSet>
+    <AssociationSet Name="foreignManhajeHalgaManhaje" Association="Self.foreignManhajeHalgaManhaje">
+      <End Role="Manhaje" EntitySet="Manhaje" />
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalga" />
+    </AssociationSet>
+    <AssociationSet Name="foreignReportCourseManhajeHalga" Association="Self.foreignReportCourseManhajeHalga">
+      <End Role="ManhajeHalga" EntitySet="ManhajeHalga" />
+      <End Role="ReportCourse" EntitySet="ReportCourse" />
+    </AssociationSet>
+    <AssociationSet Name="foreignstudentAcademic" Association="Self.foreignstudentAcademic">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="foreignstudents" Association="Self.foreignstudents">
+      <End Role="Halga" EntitySet="Halga" />
+      <End Role="Student" EntitySet="Student" />
+    </AssociationSet>
+    <AssociationSet Name="foreignTeacher" Association="Self.foreignTeacher">
+      <End Role="AcademicYear" EntitySet="AcademicYear" />
+      <End Role="Teacher" EntitySet="Teacher" />
+    </AssociationSet>
+    <AssociationSet Name="ForiegenRoleAccountsAccount" Association="Self.ForiegenRoleAccountsAccount">
+      <End Role="Accounts" EntitySet="Accounts" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+    <AssociationSet Name="ForiegenRoleAccountsRole" Association="Self.ForiegenRoleAccountsRole">
+      <End Role="Role" EntitySet="Role" />
+      <End Role="RoleAccounts" EntitySet="RoleAccounts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,343 @@
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+C:\Users\Reem\Desktop\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+C:\Level 3\Projects\Visual Programming\reeeeeeeeeeeeeeeeeeem\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.form.resources
+C:\Users\Reem\Desktop\Sufaraa Althikr\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.halgasTeacher.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+D:\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.form.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.halgasTeacher.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+D:\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.form.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.halgasTeacher.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.MonthlyReportT.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Monthly_rebort.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentYearlyReport.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TermReportT.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Term_rebort.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.YearlyReportT.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Yearly_report.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.attendeandleave.resources
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Level 3\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.form.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.attendeandleave.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.halgasTeacher.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.MonthlyReportT.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Monthly_rebort.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentYearlyReport.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TermReportT.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Term_rebort.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.YearlyReportT.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Yearly_report.resources
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+D:\مجلد جديد\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe.config
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.exe
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Sufaraa Althikr.pdb
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.dll
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.dll
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\Guna.UI2.dll
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.xml
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\bin\Debug\EntityFramework.SqlServer.xml
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.AssemblyReference.cache
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.SuggestedBindingRedirects.cache
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addHel.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.addManh.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudent.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddStudentFromAdmin.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.AddTeacher.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.form.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.attendeandleave.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CheackStudentExist.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.checkTeacherExist.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.choseRole.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.CreateAccount.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.DateYear.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.halgasTeacher.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Helga_info.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Login.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Main.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.mainTeacher.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Manh.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.MonthlyReportT.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Monthly_rebort.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Properties.Resources.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.ReportsMain.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.rocordAsStudentTeacher.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Selectyear.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.studentMain.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentMonthlyReport.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentProfile.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Students.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentTermReport.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.StudentYearlyReport.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Student_info.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Tagreer.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TeacherProfile.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teachers.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Teacher_info.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.TermReportT.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Term_rebort.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.YearlyReportT.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa_Althikr.Yearly_report.resources
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.GenerateResource.cache
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CoreCompileInputs.cache
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.csproj.CopyComplete
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.exe
+C:\اخر نسخة\Sufaraa Althikr\Sufaraa Althikr\obj\Debug\Sufaraa Althikr.pdb
